@@ -3,11 +3,6 @@ id11.onclick = function(){
     window.location.href = 'https://www.cle.osaka-u.ac.jp/ultra/courses/_170535_1/cl/outline';
 }
 
-const id13 = document.getElementById('13');
-id13.onclick = function(){
-    window.location.href = 'https://www.cle.osaka-u.ac.jp/ultra/courses/_170564_1/cl/outline';
-}
-
 const id21 = document.getElementById('21');
 id21.onclick = function(){
     window.location.href = 'https://www.cle.osaka-u.ac.jp/ultra/courses/_170605_1/cl/outline';
@@ -67,11 +62,6 @@ id44.onclick = function(){
 const id51 = document.getElementById('51');
 id51.onclick = function(){
     window.location.href = 'https://www.cle.osaka-u.ac.jp/ultra/courses/_170560_1/cl/outline';
-}
-
-const id52 = document.getElementById('52');
-id52.onclick = function(){
-    window.location.href = 'https://www.cle.osaka-u.ac.jp/ultra/courses/_170557_1/cl/outline';
 }
 
 const id53 = document.getElementById('53');

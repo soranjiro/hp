@@ -1,4 +1,5 @@
 const courses = {
+    0: 'https://www.cle.osaka-u.ac.jp/ultra/stream',
     11: 'https://www.cle.osaka-u.ac.jp/ultra/courses/_170535_1/cl/outline',
     21: 'https://www.cle.osaka-u.ac.jp/ultra/courses/_170605_1/cl/outline',
     23: 'https://www.cle.osaka-u.ac.jp/ultra/courses/_170555_1/cl/outline',
